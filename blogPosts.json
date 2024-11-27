@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Understanding Vue.js Lifecycle Hooks",
+    "excerpt": "A deep dive into Vue.js lifecycle hooks and how to use them effectively in your applications.",
+    "image": "https://placehold.co/300x200",
+    "link": "https://venopyx.com/blog/vue-lifecycle-hooks"
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "excerpt": "Learn how to create robust and scalable APIs using Node.js and Express, with best practices and examples.",
+    "image": "https://placehold.co/300x200",
+    "link": "https://venopyx.com/blog/scalable-apis-nodejs"
+  },
+  {
+    "title": "Top 10 Cybersecurity Practices for Developers",
+    "excerpt": "Ensure your applications are secure by following these top 10 cybersecurity practices for developers.",
+    "image": "https://placehold.co/300x200",
+    "link": "https://venopyx.com/blog/cybersecurity-practices"
+  }
+]
