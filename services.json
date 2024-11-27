@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Web Development",
+    "description": "Specializing in building responsive and scalable web applications using modern frameworks like Vue.js and React.",
+    "icon": "fas fa-code"
+  },
+  {
+    "title": "Mobile Development",
+    "description": "Creating engaging and user-friendly mobile applications for both Android and iOS platforms.",
+    "icon": "fas fa-mobile-alt"
+  },
+  {
+    "title": "AI Solutions",
+    "description": "Leveraging AI and machine learning to build intelligent systems that automate tasks and provide insights.",
+    "icon": "fas fa-brain"
+  },
+  {
+    "title": "Blockchain Development",
+    "description": "Designing and implementing decentralized applications on blockchain technology for secure and transparent solutions.",
+    "icon": "fas fa-link"
+  },
+  {
+    "title": "Cybersecurity",
+    "description": "Providing robust security solutions, including vulnerability assessments, penetration testing, and secure code reviews.",
+    "icon": "fas fa-shield-alt"
+  },
+  {
+    "title": "Technical Mentorship",
+    "description": "Offering personalized mentorship programs to guide aspiring developers in their learning journey and career growth.",
+    "icon": "fas fa-chalkboard-teacher"
+  }
+]
