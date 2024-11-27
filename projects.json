@@ -1,0 +1,20 @@
+[
+  {
+    "title": "E-commerce Platform",
+    "description": "A full-featured e-commerce platform built with Vue.js and Node.js, including user authentication, product management, and payment integration.",
+    "image": "https://placehold.co/300x200",
+    "link": "https://github.com/venopyX/ecommerce-platform"
+  },
+  {
+    "title": "AI Chatbot",
+    "description": "An AI-powered chatbot developed using Python and TensorFlow, designed to assist customers with their queries and provide personalized recommendations.",
+    "image": "https://placehold.co/300x200",
+    "link": "https://github.com/venopyX/ai-chatbot"
+  },
+  {
+    "title": "Blockchain Voting System",
+    "description": "A decentralized voting system built on the Ethereum blockchain, ensuring secure and transparent voting processes.",
+    "image": "https://placehold.co/300x200",
+    "link": "https://github.com/venopyX/blockchain-voting-system"
+  }
+]
